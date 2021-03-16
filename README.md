@@ -65,3 +65,8 @@ This will lint and fix all fixable lint issues.
 If you have an issue with the boilerplate or want to contribute, please let me know I'll be happy to interact with you.
 
 Happy building!
+
+## ⏲ Changelog
+
+- v1.1.0: Bumped packages version and changed the path flattening for assets.
+- v1.0.0: Initial template ready to be used.

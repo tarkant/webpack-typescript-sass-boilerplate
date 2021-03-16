@@ -43,9 +43,9 @@ module.exports = {
     new CopywebpackPlugin({
       patterns: [
         {
-          from: 'src/assets/*',
-          to: 'Assets',
-          flatten: true,
+          from: 'src/assets/**/*',
+          to: 'assets/[name][ext]',
+
         },
       ],
     }),
