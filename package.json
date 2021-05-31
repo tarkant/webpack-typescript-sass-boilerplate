@@ -1,6 +1,6 @@
 {
   "name": "webpack-typescript-sass-boilerplate",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A simple Webpack + TypeScript + SASS boilerplate to get you started in making a website.",
   "main": "index.js",
   "scripts": {
