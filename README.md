@@ -68,5 +68,6 @@ Happy building!
 
 ## ⏲ Changelog
 
+- v1.1.3: Bumped packages version and changed updated devServer config.
 - v1.1.0: Bumped packages version and changed the path flattening for assets.
 - v1.0.0: Initial template ready to be used.
